@@ -3,11 +3,13 @@ its  a Playfair cipher solver java program
 for example use this:
 
 plain text: mynameiskokoandiliveinalexandilovefootbalxlx
+
 Encrypted text: vasdegqnlflfdsncnlmwlongwgdsncnhmwottzmbrgrg
 
 OR
 
 plain text: mynameismostafaxandiliveinalexloveplayfootbalxlxfekr
+
 Encrypted text: utorflthostadmdorokceqguqgrmfgmngugnztmxsasdfnfnelrz
 
 For more information:
